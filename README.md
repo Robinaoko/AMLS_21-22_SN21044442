@@ -39,9 +39,9 @@ The following documents are included:
 14. The class_indices file holds the four tumour classes.
 
 # Library:
-Python                   3.8
-matplotlib               3.4.2  
-numpy                    1.19.5  
+Python                   3.8  
+matplotlib               3.4.2    
+numpy                    1.19.5    
 pandas                   1.3.3  
 scikit-learn             0.24.2  
 scikit-image             0.18.3  
