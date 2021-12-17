@@ -32,11 +32,10 @@ The following documents are included:
    The train folder contains the training set images divided by the four tumour classes, and the val folder contains the validation set images.
    The test folder contains 200 images of brain tumours for testing.  
 9. The output folder is used to store the saved models and the output curves, which already contain some plotted curves.  
-10. The pretrain_weights folder holds the downloaded pre-training parameter files for transfer learning.  
-11. The save_weights folder is used to store the weight parameters in the training.  
-12. The test_label file holds the tumour categories for each of the 200 test set images.  
-13. predict_one_result file predicts the category of the image using the saved model.  
-14. The class_indices file holds the four tumour classes.
+10. The pretrain_weights folder holds the downloaded pre-training parameter files for transfer learning.   
+11. The test_label file holds the tumour categories for each of the 200 test set images.  
+12. predict_one_result file predicts the category of the image using the saved model.  
+13. The class_indices file holds the four tumour classes.
 
 # Library:
 Python                   3.8  
