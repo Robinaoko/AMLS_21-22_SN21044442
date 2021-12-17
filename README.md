@@ -38,6 +38,15 @@ The following documents are included:
 13. predict_one_result file predicts the category of the image using the saved model.  
 14. The class_indices file holds the four tumour classes.
 
-# Library: 
+# Library:
+Python                   3.8
 matplotlib               3.4.2  
 numpy                    1.19.5  
+pandas                   1.3.3  
+scikit-learn             0.24.2  
+scikit-image             0.18.3  
+scipy                    1.4.1  
+tensorflow-gpu           2.5.0  
+Cuda                     11.2  
+Pillow                   8.4.0  
+tqdm                     4.62.3
